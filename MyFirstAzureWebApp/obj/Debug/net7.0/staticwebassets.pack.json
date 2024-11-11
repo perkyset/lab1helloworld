@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\OneDrive\\Робочий стіл\\Code\\C#\\MyFirstAzureWebApp\\MyFirstAzureWebApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MyFirstAzureWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MyFirstAzureWebApp.props",
+      "PackagePath": "build\\MyFirstAzureWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MyFirstAzureWebApp.props",
+      "PackagePath": "buildMultiTargeting\\MyFirstAzureWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MyFirstAzureWebApp.props",
+      "PackagePath": "buildTransitive\\MyFirstAzureWebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

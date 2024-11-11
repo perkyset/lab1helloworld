@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "F8bCH2n03Lcr76+vlW+TXt87hZkaWBombSWG3hzrYZ0=",
+  "Source": "MyFirstAzureWebApp",
+  "BasePath": "_content/MyFirstAzureWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyFirstAzureWebApp\\wwwroot",
+      "Source": "MyFirstAzureWebApp",
+      "ContentRoot": "D:\\OneDrive\\Робочий стіл\\Code\\C#\\MyFirstAzureWebApp\\MyFirstAzureWebApp\\wwwroot\\",
+      "BasePath": "_content/MyFirstAzureWebApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\OneDrive\\Робочий стіл\\Code\\C#\\MyFirstAzureWebApp\\MyFirstAzureWebApp\\wwwroot\\css\\site.css",
+      "SourceId": "MyFirstAzureWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\OneDrive\\Робочий стіл\\Code\\C#\\MyFirstAzureWebApp\\MyFirstAzureWebApp\\wwwroot\\",
+      "BasePath": "_content/MyFirstAzureWebApp",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ]
+}
